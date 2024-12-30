@@ -59,14 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilinaMadhushanka&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
 
----
-
-<h2 align="center">GitHub Contribution Snake 🐍</h2>
-<p align="center">
-  <img src="./src/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 ## 📂 Projects
 
