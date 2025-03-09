@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQFu98LRnvkV-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721923216229?e=1741219200&v=beta&t=bA4852DWU8__5FGLDZuDU6zUk43nT78HGQZVWe-5Jkc)
+![](https://media.licdn.com/dms/image/v2/D5616AQFu98LRnvkV-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721923216229?e=1747267200&v=beta&t=G6pxjoI19DmeEPRAzLBCsUpabjV93DmfqJ0mZE5M1tI)
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=683FF7&background=E0FF0000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergraduate;Creative+%26+Open-minded" alt="Typing SVG" /></a>
