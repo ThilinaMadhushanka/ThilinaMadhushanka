@@ -82,7 +82,7 @@ Here are some of my favorite projects:
 
 ## 🐍 GitHub Contribution Snake 
 <p align="center">
-  <img src="./src/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="/.github/workflows/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
