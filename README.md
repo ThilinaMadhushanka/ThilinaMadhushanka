@@ -72,6 +72,20 @@ Here are some of my favorite projects:
 
 ---
 
+## 📊 Statistics
+<details open> 
+<summary> <img height="20px" src="https://avatars.githubusercontent.com/u/160057651?v=4?id=ThilinaMadhushanka&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+    <img alt="ThilinaMadhushanka Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ThilinaMadhushanka&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+</details>
+
+---
+
+## 🐍 GitHub Contribution Snake 
+<p align="center">
+  <img src="./src/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thilina-madhushanka-9ba97625b)
