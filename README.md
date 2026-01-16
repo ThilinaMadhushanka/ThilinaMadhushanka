@@ -63,9 +63,8 @@ const thilina = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/.github/assets/techArsenal.svg" width="100%" />
+  <img src=".github/workflows/techArsenal.svg" width="100%" alt="Tech Arsenal"/>
 </div>
-
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
