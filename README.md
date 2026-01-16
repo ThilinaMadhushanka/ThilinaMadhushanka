@@ -23,6 +23,7 @@
 
 ```javascript
 const thilina = {
+    name: "Thilina Madhushanka",
     location: "Rathnapura, Sri Lanka 🇱🇰",
     education: "B.Sc. Computer Engineering",
     currentFocus: "Full-Stack Development & System Design",
