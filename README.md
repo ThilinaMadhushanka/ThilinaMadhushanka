@@ -2,19 +2,20 @@
   <img src="/.github/workflows/header.svg" width="100%" alt="Night Sky Header"/>
 </div>
 
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&colors=020617,0a2540,0f4c81,1f6feb&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Hardware+%2B+Software+Engineer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning%2C+Always+Building;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/thilina-madhushanka-9ba97625b)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:thilinamadhushanka378@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ThilinaMadhushanka)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00F7F7?style=for-the-badge&logo=todoist&logoColor=black&labelColor=000000)](https://yourportfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00F7F7?style=for-the-badge&logo=todoist&logoColor=black&labelColor=000000)](https://thilinamadhushanka.github.io/portfolio/)
   
 </div>
 
@@ -41,13 +42,19 @@ const thilina = {
 
 ### 🎯 What I'm Up To
 
-🔭 **Currently Building:** Innovative full-stack applications with modern tech stacks  
-🌱 **Learning:** Machine Learning, Cloud Architecture & DevOps  
-👯 **Open to:** Collaborating on impactful open-source projects  
-💼 **Seeking:** Internship opportunities in software development  
-💬 **Ask Me About:** Java, React, Spring Boot, REST APIs, DSA  
-⚡ **Fun Fact:** I turn coffee into code and bugs into features ☕→💻  
-🎓 **Current Goal:** Contributing to 100+ open source projects  
+🔭 **Currently Building:** Innovative full-stack applications with modern tech stacks
+
+🌱 **Learning:** Machine Learning, Cloud Architecture & DevOps
+
+👯 **Open to:** Collaborating on impactful open-source projects
+
+💼 **Seeking:** Internship opportunities in software development
+
+💬 **Ask Me About:** Java, React, Spring Boot, REST APIs, DSA
+
+⚡ **Fun Fact:** I turn coffee into code and bugs into features ☕→💻
+
+🎓 **Current Goal:** Contributing to 100+ open source projects
 
 <br clear="right"/>
 
