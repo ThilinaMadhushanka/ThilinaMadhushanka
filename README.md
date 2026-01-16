@@ -1,9 +1,7 @@
 <div align="center">
   <img src="/.github/workflows/header.svg" width="100%" alt="Night Sky Header"/>
 </div>
-
-
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&colors=020617,0a2540,0f4c81,1f6feb&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Hardware+%2B+Software+Engineer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning%2C+Always+Building;Open+Source+Contributor" alt="Typing SVG" />
