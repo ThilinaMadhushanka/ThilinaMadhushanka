@@ -120,11 +120,11 @@ const thilina = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ThilinaMadhushanka/ATM-Interface-java-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThilinaMadhushanka&repo=ATM-Interface-java&theme=dark&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&border_color=30363d" alt="ATM Interface" />
+  <a href="https://github.com/ThilinaMadhushanka/Real-Time-Video-Conferencing-Application-using-WebRTC">
+    <img src="https://socialify.git.ci/ThilinaMadhushanka/Real-Time-Video-Conferencing-Application-using-WebRTC/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Real-Time Video Conferencing" />
   </a>
-  <a href="https://github.com/ThilinaMadhushanka/Feedback-Management-System-PHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThilinaMadhushanka&repo=Feedback-Management-System-PHP&theme=dark&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&border_color=30363d" alt="Feedback System" />
+  <a href="https://github.com/ThilinaMadhushanka/portfolio">
+    <img src="https://socialify.git.ci/ThilinaMadhushanka/portfolio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Portfolio" />
   </a>
 </div>
 
