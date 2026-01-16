@@ -1,1 +1,330 @@
 
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .hexagon {
+        fill: #0d1117;
+        stroke: #30363d;
+        stroke-width: 2;
+        transition: all 0.3s ease;
+      }
+      .hexagon:hover {
+        fill: #161b22;
+        stroke: #58a6ff;
+        stroke-width: 3;
+      }
+      .section-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        fill: #c9d1d9;
+      }
+      .tech-name {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 10px;
+        fill: #8b949e;
+        text-anchor: middle;
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-5px); }
+      }
+      .floating {
+        animation: float 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="600" fill="#010409"/>
+
+  <!-- Title -->
+  <text x="600" y="35" text-anchor="middle" class="section-title" font-size="24" fill="#58a6ff">
+    🛠️ Tech Arsenal
+  </text>
+
+  <!-- Languages Section -->
+  <text x="600" y="75" text-anchor="middle" class="section-title" font-size="16">💻 Languages</text>
+  
+  <!-- Row 1: Languages -->
+  <g transform="translate(120, 95)">
+    <g class="floating" style="animation-delay: 0s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#ED8B00" font-weight="bold">Java</text>
+      <text x="25" y="60" class="tech-name">Java</text>
+    </g>
+  </g>
+
+  <g transform="translate(200, 95)">
+    <g class="floating" style="animation-delay: 0.1s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#3776AB" font-weight="bold">Py</text>
+      <text x="25" y="60" class="tech-name">Python</text>
+    </g>
+  </g>
+
+  <g transform="translate(280, 95)">
+    <g class="floating" style="animation-delay: 0.2s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#F7DF1E" font-weight="bold">JS</text>
+      <text x="25" y="60" class="tech-name">JavaScript</text>
+    </g>
+  </g>
+
+  <g transform="translate(360, 95)">
+    <g class="floating" style="animation-delay: 0.3s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#3178C6" font-weight="bold">TS</text>
+      <text x="25" y="60" class="tech-name">TypeScript</text>
+    </g>
+  </g>
+
+  <g transform="translate(440, 95)">
+    <g class="floating" style="animation-delay: 0.4s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#777BB4" font-weight="bold">PHP</text>
+      <text x="25" y="60" class="tech-name">PHP</text>
+    </g>
+  </g>
+
+  <g transform="translate(520, 95)">
+    <g class="floating" style="animation-delay: 0.5s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#00ADD8" font-weight="bold">Go</text>
+      <text x="25" y="60" class="tech-name">Golang</text>
+    </g>
+  </g>
+
+  <g transform="translate(600, 95)">
+    <g class="floating" style="animation-delay: 0.6s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#00599C" font-weight="bold">C++</text>
+      <text x="25" y="60" class="tech-name">C++</text>
+    </g>
+  </g>
+
+  <g transform="translate(680, 95)">
+    <g class="floating" style="animation-delay: 0.7s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#E34F26" font-weight="bold">HTML</text>
+      <text x="25" y="60" class="tech-name">HTML5</text>
+    </g>
+  </g>
+
+  <g transform="translate(760, 95)">
+    <g class="floating" style="animation-delay: 0.8s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="14" fill="#1572B6" font-weight="bold">CSS</text>
+      <text x="25" y="60" class="tech-name">CSS3</text>
+    </g>
+  </g>
+
+  <!-- Frameworks Section -->
+  <text x="600" y="200" text-anchor="middle" class="section-title" font-size="16">🚀 Frameworks</text>
+  
+  <g transform="translate(160, 220)">
+    <g class="floating" style="animation-delay: 0.1s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="10" fill="#6DB33F" font-weight="bold">Spring</text>
+      <text x="25" y="60" class="tech-name">Spring Boot</text>
+    </g>
+  </g>
+
+  <g transform="translate(240, 220)">
+    <g class="floating" style="animation-delay: 0.2s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="12" fill="#61DAFB" font-weight="bold">React</text>
+      <text x="25" y="60" class="tech-name">React</text>
+    </g>
+  </g>
+
+  <g transform="translate(320, 220)">
+    <g class="floating" style="animation-delay: 0.3s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#43853D" font-weight="bold">Node</text>
+      <text x="25" y="60" class="tech-name">Node.js</text>
+    </g>
+  </g>
+
+  <g transform="translate(400, 220)">
+    <g class="floating" style="animation-delay: 0.4s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="10" fill="#FFFFFF" font-weight="bold">Express</text>
+      <text x="25" y="60" class="tech-name">Express.js</text>
+    </g>
+  </g>
+
+  <g transform="translate(480, 220)">
+    <g class="floating" style="animation-delay: 0.5s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="12" fill="#FFFFFF" font-weight="bold">Flask</text>
+      <text x="25" y="60" class="tech-name">Flask</text>
+    </g>
+  </g>
+
+  <g transform="translate(560, 220)">
+    <g class="floating" style="animation-delay: 0.6s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#092E20" font-weight="bold">Django</text>
+      <text x="25" y="60" class="tech-name">Django</text>
+    </g>
+  </g>
+
+  <g transform="translate(640, 220)">
+    <g class="floating" style="animation-delay: 0.7s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="9" fill="#38B2AC" font-weight="bold">Tailwind</text>
+      <text x="25" y="60" class="tech-name">Tailwind</text>
+    </g>
+  </g>
+
+  <g transform="translate(720, 220)">
+    <g class="floating" style="animation-delay: 0.8s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="9" fill="#563D7C" font-weight="bold">Bootstrap</text>
+      <text x="25" y="60" class="tech-name">Bootstrap</text>
+    </g>
+  </g>
+
+  <g transform="translate(800, 220)">
+    <g class="floating" style="animation-delay: 0.9s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#0769AD" font-weight="bold">jQuery</text>
+      <text x="25" y="60" class="tech-name">jQuery</text>
+    </g>
+  </g>
+
+  <!-- Databases Section -->
+  <text x="600" y="325" text-anchor="middle" class="section-title" font-size="16">🗄️ Databases</text>
+  
+  <g transform="translate(280, 345)">
+    <g class="floating" style="animation-delay: 0.2s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#4479A1" font-weight="bold">MySQL</text>
+      <text x="25" y="60" class="tech-name">MySQL</text>
+    </g>
+  </g>
+
+  <g transform="translate(360, 345)">
+    <g class="floating" style="animation-delay: 0.3s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="10" fill="#47A248" font-weight="bold">Mongo</text>
+      <text x="25" y="60" class="tech-name">MongoDB</text>
+    </g>
+  </g>
+
+  <g transform="translate(440, 345)">
+    <g class="floating" style="animation-delay: 0.4s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="9" fill="#316192" font-weight="bold">Postgres</text>
+      <text x="25" y="60" class="tech-name">PostgreSQL</text>
+    </g>
+  </g>
+
+  <g transform="translate(520, 345)">
+    <g class="floating" style="animation-delay: 0.5s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="9" fill="#FFCA28" font-weight="bold">Firebase</text>
+      <text x="25" y="60" class="tech-name">Firebase</text>
+    </g>
+  </g>
+
+  <g transform="translate(600, 345)">
+    <g class="floating" style="animation-delay: 0.6s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#FF9900" font-weight="bold">AWS</text>
+      <text x="25" y="60" class="tech-name">AWS</text>
+    </g>
+  </g>
+
+  <g transform="translate(680, 345)">
+    <g class="floating" style="animation-delay: 0.7s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#DC382D" font-weight="bold">Redis</text>
+      <text x="25" y="60" class="tech-name">Redis</text>
+    </g>
+  </g>
+
+  <!-- Tools Section -->
+  <text x="600" y="450" text-anchor="middle" class="section-title" font-size="16">🔧 Tools</text>
+  
+  <g transform="translate(120, 470)">
+    <g class="floating" style="animation-delay: 0.1s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="12" fill="#F05032" font-weight="bold">Git</text>
+      <text x="25" y="60" class="tech-name">Git</text>
+    </g>
+  </g>
+
+  <g transform="translate(200, 470)">
+    <g class="floating" style="animation-delay: 0.2s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="10" fill="#FFFFFF" font-weight="bold">GitHub</text>
+      <text x="25" y="60" class="tech-name">GitHub</text>
+    </g>
+  </g>
+
+  <g transform="translate(280, 470)">
+    <g class="floating" style="animation-delay: 0.3s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="10" fill="#007ACC" font-weight="bold">VSCode</text>
+      <text x="25" y="60" class="tech-name">VS Code</text>
+    </g>
+  </g>
+
+  <g transform="translate(360, 470)">
+    <g class="floating" style="animation-delay: 0.4s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="9" fill="#FFFFFF" font-weight="bold">IntelliJ</text>
+      <text x="25" y="60" class="tech-name">IntelliJ</text>
+    </g>
+  </g>
+
+  <g transform="translate(440, 470)">
+    <g class="floating" style="animation-delay: 0.5s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="9" fill="#FF6C37" font-weight="bold">Postman</text>
+      <text x="25" y="60" class="tech-name">Postman</text>
+    </g>
+  </g>
+
+  <g transform="translate(520, 470)">
+    <g class="floating" style="animation-delay: 0.6s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#2496ED" font-weight="bold">Docker</text>
+      <text x="25" y="60" class="tech-name">Docker</text>
+    </g>
+  </g>
+
+  <g transform="translate(600, 470)">
+    <g class="floating" style="animation-delay: 0.7s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#F24E1E" font-weight="bold">Figma</text>
+      <text x="25" y="60" class="tech-name">Figma</text>
+    </g>
+  </g>
+
+  <g transform="translate(680, 470)">
+    <g class="floating" style="animation-delay: 0.8s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="12" fill="#0052CC" font-weight="bold">Jira</text>
+      <text x="25" y="60" class="tech-name">Jira</text>
+    </g>
+  </g>
+
+  <g transform="translate(760, 470)">
+    <g class="floating" style="animation-delay: 0.9s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#FCC624" font-weight="bold">Linux</text>
+      <text x="25" y="60" class="tech-name">Linux</text>
+    </g>
+  </g>
+
+  <g transform="translate(840, 470)">
+    <g class="floating" style="animation-delay: 1s;">
+      <polygon class="hexagon" points="25,0 50,12.5 50,37.5 25,50 0,37.5 0,12.5"/>
+      <text x="25" y="28" text-anchor="middle" font-size="11" fill="#009639" font-weight="bold">Nginx</text>
+      <text x="25" y="60" class="tech-name">Nginx</text>
+    </g>
+  </g>
+</svg>
