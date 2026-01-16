@@ -36,15 +36,15 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="600" fill="#010409"/>
+  <rect width="1000" height="600" fill="#010409"/>
 
   <!-- Title -->
-  <text x="600" y="35" text-anchor="middle" class="section-title" font-size="24" fill="#58a6ff">
+  <text x="500" y="35" text-anchor="middle" class="section-title" font-size="24" fill="#58a6ff">
     🛠️ Tech Arsenal
   </text>
 
   <!-- Languages Section -->
-  <text x="600" y="75" text-anchor="middle" class="section-title" font-size="16">💻 Languages</text>
+  <text x="500" y="75" text-anchor="middle" class="section-title" font-size="16">💻 Languages</text>
   
   <!-- Row 1: Languages -->
   <g transform="translate(120, 95)">
@@ -120,7 +120,7 @@
   </g>
 
   <!-- Frameworks Section -->
-  <text x="600" y="200" text-anchor="middle" class="section-title" font-size="16">🚀 Frameworks</text>
+  <text x="500" y="200" text-anchor="middle" class="section-title" font-size="16">🚀 Frameworks</text>
   
   <g transform="translate(160, 220)">
     <g class="floating" style="animation-delay: 0.1s;">
@@ -195,7 +195,7 @@
   </g>
 
   <!-- Databases Section -->
-  <text x="600" y="325" text-anchor="middle" class="section-title" font-size="16">🗄️ Databases</text>
+  <text x="500" y="325" text-anchor="middle" class="section-title" font-size="16">🗄️ Databases</text>
   
   <g transform="translate(280, 345)">
     <g class="floating" style="animation-delay: 0.2s;">
@@ -246,7 +246,7 @@
   </g>
 
   <!-- Tools Section -->
-  <text x="600" y="450" text-anchor="middle" class="section-title" font-size="16">🔧 Tools</text>
+  <text x="500" y="450" text-anchor="middle" class="section-title" font-size="16">🔧 Tools</text>
   
   <g transform="translate(120, 470)">
     <g class="floating" style="animation-delay: 0.1s;">
