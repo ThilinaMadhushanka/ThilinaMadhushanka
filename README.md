@@ -65,6 +65,28 @@ const thilina = {
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
+## 💻 My GitHub Stats
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaMadhushanka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- GitHub Stats Card -->
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=ThilinaMadhushanka&show_icons=true&locale=en&theme=radical"
+       alt="ThilinaMadhushanka" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ThilinaMadhushanka&theme=radical"
+       alt="ThilinaMadhushanka" />
+</p>
+
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
+
 ## 🐍 Contribution Snake
 
 <div align="center">
